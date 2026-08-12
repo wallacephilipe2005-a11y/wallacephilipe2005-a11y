@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou Wallace!
 
-<!--
-**wallacephilipe2005-a11y/wallacephilipe2005-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Técnico em TI e atualmente Atendente de Suporte Técnico na Vero Internet.
 
-Here are some ideas to get you started:
+Sou estudante de Engenharia de Software e tenho interesse em desenvolvimento, e tecnologia em geral. Gosto de resolver problemas e criar soluções que facilitem o dia a dia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+
+## Atualmente estudando
+
+- Engenharia de Software
+- Desenvolvimento Web
+- Automação de Processos
+
+## Projetos
+
+Aqui você encontrará projetos de estudo, experimentos e trabalhos que acompanham minha evolução na área de tecnologia.
