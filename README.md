@@ -2,7 +2,7 @@
 
 Técnico em TI e atualmente Atendente de Suporte Técnico na Vero Internet.
 
-Sou estudante de Engenharia de Software e tenho interesse em desenvolvimento, e tecnologia em geral. Gosto de resolver problemas e criar soluções que facilitem o dia a dia.
+Sou estudante de Engenharia de Software e tenho interesse em desenvolvimento de software e automação. Gosto de resolver problemas e criar soluções que facilitem o dia a dia.
 
 ## Tecnologias
 
