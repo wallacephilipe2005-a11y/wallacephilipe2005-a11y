@@ -1,4 +1,4 @@
-# Olá, eu sou Wallace!
+# Olá, sou Wallace!
 
 Técnico em TI e atualmente Atendente de Suporte Técnico na Vero Internet.
 
