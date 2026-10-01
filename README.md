@@ -6,9 +6,9 @@ Sou estudante de Engenharia de Software e tenho interesse em desenvolvimento de 
 
 ## Tecnologias
 
-- HTML
-- CSS
-- JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,ps" />
+</p>
 
 ## Atualmente estudando
 
