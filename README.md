@@ -1,13 +1,13 @@
 # Olá, sou Wallace!
 
-Técnico em TI e atualmente Atendente de Suporte Técnico na Vero Internet.
+Técnico em TI e graduando em Engenharia de Software, com atuação atual no Suporte Técnico N1 da Vero Internet.
 
-Sou estudante de Engenharia de Software e tenho interesse em desenvolvimento de software e automação. Gosto de resolver problemas e criar soluções que facilitem o dia a dia.
+No dia a dia, diagnostico redes, administro ambientes Linux e desenvolvo extensões de navegador e scripts em JavaScript, HTML e CSS para automatizar processos e agilizar atendimentos.
 
 ## Tecnologias
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,linux,bash,git" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,linux,bash,git" />
 </p>
 
 ## Contatos
@@ -27,9 +27,11 @@ Sou estudante de Engenharia de Software e tenho interesse em desenvolvimento de 
 ## Atualmente estudando
 
 - Engenharia de Software
-- Desenvolvimento Web
+- Desenvolvimento Web (JavaScript, TypeScript e Node.js)
+- Infraestrutura de Redes e Administração Linux
 - Automação de Processos
 
-## Projetos
+## Projetos em Destaque
 
-Aqui você encontrará projetos de estudo, experimentos e trabalhos que acompanham minha evolução na área de tecnologia.
+- **Extensões de Automação para Suporte:** Ferramentas internas desenvolvidas com JavaScript, HTML e CSS para agilizar diagnósticos e rotinas de atendimento N1.
+- **Home Lab Linux:** Servidor doméstico rodando em hardware embarcado para administração de sistemas, acesso remoto via SSH, redes e monitoramento.
