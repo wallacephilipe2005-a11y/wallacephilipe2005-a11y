@@ -7,7 +7,7 @@ Sou estudante de Engenharia de Software e tenho interesse em desenvolvimento de 
 ## Tecnologias
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,linux,bash,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,linux,bash,git" />
 </p>
 
 ## Contatos
